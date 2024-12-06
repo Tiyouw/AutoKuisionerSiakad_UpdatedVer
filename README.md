@@ -1,2 +1,2 @@
 # AutoKuisionerFathan
- punya fathan
+fathan original, i modified it
